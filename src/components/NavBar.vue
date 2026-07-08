@@ -1,7 +1,7 @@
 <template>
   <nav
     class="fixed top-0 left-0 right-0 z-50 transition-all duration-500 font-poppins dark"
-    :class="scrolled ? 'py-3 bg-brand-darker/90 backdrop-blur-xl border-b border-white/5 shadow-2xl' : 'py-5 bg-transparent'"
+    :class="scrolled ? 'py-3 bg-brand-darker/90 backdrop-blur-xl shadow-2xl' : 'py-5 bg-transparent'"
   >
     <div class="max-w-7xl mx-auto px-6 flex items-center justify-between">
     
